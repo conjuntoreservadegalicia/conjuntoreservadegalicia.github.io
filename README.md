@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Conjunto Reserva de Galicia  
+Bienvenido al sitio web del conjunto reserva de Galicia
 
-You can use the [editor on GitHub](https://github.com/conjuntoreservadegalicia/conjuntoreservadegalicia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<ul class="actions">
+  <li><a href="#zero" class="button scrolly">Ubicación</a></li>
+  <li><a href="#one" class="button scrolly">Documentos</a></li>
+  <li><a href="#two" class="button scrolly">Noticias</a></li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sobre el conjunto
+  
+1. Reglamento de propiedad horizontal</p>
+2. Manual de convivencia</p>
+3. Uso de parqueadero</p>
 
-### Markdown
+**[Canal de Youtube](https://www.youtube.com/channel/UCmVX4zrxCtDMPDJJj-t0M-Q/)**  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Noticias
+  
+##### Marzo 2020  
+- Se encuentra abierta convocatoria para Revisor Fiscal [Mas info](http://www.computrabajo.com)
+- Se encuentra abierta convocatoria para Administrador [Mas info](?)
+  
+##### Octubre 2019  
+- Finalización de la impermeabilización (la administración estará tramitaando las intervenciones de los patios en los primeros pisos).
+  
+### Proximos eventos  
+  
+- Asamblea Ordinaria de Copropietarios 2020 (**19 de Abril de 2020**) [Mas Info](?)
 
+
+### Información de Contacto
+  
+#### Ubicación:
+  
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Calle 62 a Sur # 73c - 21  
+Bogota (Colombia)  
 ```
+[Ver en Google Maps](https://maps.google.com/?q=Conjunto+Residencial+Reserva+de+Galicia&z=10)  
+  
+#### Horario de Atención de Administración:
+  
+Lunes a Viernes de 5pm a 8pm  
+Sábados de 8am a 12m  
+[Enviar correo](mailto:contadoragalicia@gmail.com)  
+  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Comentarios
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conjuntoreservadegalicia/conjuntoreservadegalicia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+CopyRight
+&copy; Conjunto Residencial Reserva de Galicia  
+Design: <a href="http://html5up.net">HTML5 UP
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -1,7 +1,7 @@
   
 
 # Conjunto Reserva de Galicia  
-Bienvenido al sitio web del conjunto reserva de Galicia
+Propiedad Horizontal
 
 <ul class="actions">
   <li><a href="#zero" class="button scrolly">Ubicación</a></li>

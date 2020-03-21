@@ -11,9 +11,9 @@ Propiedad Horizontal
 
 ### Sobre el conjunto
   
-1. Reglamento de propiedad horizontal</p>
-2. Manual de convivencia</p>
-3. Uso de parqueadero</p>
+1. Reglamento de propiedad horizontal
+2. Manual de convivencia
+3. Uso de parqueadero
 
 **[Canal de Youtube](https://www.youtube.com/channel/UCmVX4zrxCtDMPDJJj-t0M-Q/)**  
 
